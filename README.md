@@ -1,6 +1,6 @@
 # PopX Mobile UI
 
-A pixel-perfect mobile UI application built with React and Vite. Features a 375px mobile layout centered on desktop with four pages: Welcome, Register, Login, and Account.
+A pixel-perfect mobile UI application built with React and Vite. Features a 375px mobile layout centered on desktop with four pages: Welcome, Register, Login, and Account.This project was developed as a React JS qualifier assignment demonstrating clean component architecture, client-side routing, and structured UI implementation.
 
 ## Tech Stack
 
@@ -53,8 +53,8 @@ src/
 
 ## Live Demo
 
-🔗 [Hosted on Vercel](https://your-app-name.vercel.app)
+🔗 https://popx-mobile-ui-react.vercel.app/
 
 ## Repository
 
-🔗 [GitHub Repo](https://github.com/your-username/popx-mobile-ui-react)
+🔗 https://github.com/divya-dabbara/popx-mobile-ui-react
